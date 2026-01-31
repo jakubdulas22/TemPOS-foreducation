@@ -1,2 +1,1 @@
-# TemPOS
-Point-Of-Sale Software for Windows (C#/WPF)
+Fork of TemPOS in which i will add some things to the program 
